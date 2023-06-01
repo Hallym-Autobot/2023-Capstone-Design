@@ -1,12 +1,12 @@
 # 2023-Capstone-Design
-
----
+* 과제: 유니티를 이용한 자율주행 시뮬레이터 개발
+* 팀명: 오토봇
+* 팀원: 서무혁, 이제일, 장재현, 최준호
 ## 개발 환경
 * Window
 * Python 3.9
 * Pytorch 2.0 (CUDA 11.8)
 * Unity ML-Agents Toolkit Release 20 
-
 ## 디렉터리 구조
 ```text
 ├─ config           # 알고리즘의 하이퍼파라미터
@@ -15,7 +15,6 @@
 ├─ unity_capstone   # 유니티 프로젝트
 └─ environment.yaml # anaconda 가상환경 설정 
 ```
-
 ## 실행 방법
 * 터미널에서 anaconda를 이용해 python 가상환경을 설치합니다. 
   * ```conda create -f environment.yaml```
