@@ -1,0 +1,200 @@
+{
+    "PoliceAgent": {
+        "checkpoints": [
+            {
+                "steps": 59999941,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-59999941.onnx",
+                "reward": 501.5460383022533,
+                "creation_time": 1685492525.901083,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-59999941.pt"
+                ]
+            },
+            {
+                "steps": 64999948,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-64999948.onnx",
+                "reward": 518.4196475604633,
+                "creation_time": 1685495004.6885872,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-64999948.pt"
+                ]
+            },
+            {
+                "steps": 69999945,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-69999945.onnx",
+                "reward": 574.8323232619489,
+                "creation_time": 1685497489.3143892,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-69999945.pt"
+                ]
+            },
+            {
+                "steps": 74999983,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-74999983.onnx",
+                "reward": 615.0187094552176,
+                "creation_time": 1685500021.5395367,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-74999983.pt"
+                ]
+            },
+            {
+                "steps": 79999985,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-79999985.onnx",
+                "reward": 690.8119728088379,
+                "creation_time": 1685502532.0732398,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-79999985.pt"
+                ]
+            },
+            {
+                "steps": 84999970,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-84999970.onnx",
+                "reward": 606.004044426812,
+                "creation_time": 1685505068.8989902,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-84999970.pt"
+                ]
+            },
+            {
+                "steps": 89999939,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-89999939.onnx",
+                "reward": 650.7905887890887,
+                "creation_time": 1685507602.3508198,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-89999939.pt"
+                ]
+            },
+            {
+                "steps": 94999942,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-94999942.onnx",
+                "reward": 810.946231842041,
+                "creation_time": 1685510157.6589324,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-94999942.pt"
+                ]
+            },
+            {
+                "steps": 99999980,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-99999980.onnx",
+                "reward": 657.5342251913888,
+                "creation_time": 1685512694.1491218,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-99999980.pt"
+                ]
+            },
+            {
+                "steps": 104999996,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-104999996.onnx",
+                "reward": 765.9998653531075,
+                "creation_time": 1685515298.2607477,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-104999996.pt"
+                ]
+            },
+            {
+                "steps": 109999999,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-109999999.onnx",
+                "reward": 746.8562157370827,
+                "creation_time": 1685517843.9421706,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-109999999.pt"
+                ]
+            },
+            {
+                "steps": 114999965,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-114999965.onnx",
+                "reward": 615.1491995444665,
+                "creation_time": 1685520435.154079,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-114999965.pt"
+                ]
+            },
+            {
+                "steps": 119999988,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-119999988.onnx",
+                "reward": 790.9812584406213,
+                "creation_time": 1685523100.3865297,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-119999988.pt"
+                ]
+            },
+            {
+                "steps": 124999938,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-124999938.onnx",
+                "reward": 624.6820637096058,
+                "creation_time": 1685525784.0510573,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-124999938.pt"
+                ]
+            },
+            {
+                "steps": 129999994,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-129999994.onnx",
+                "reward": 693.37717350324,
+                "creation_time": 1685528384.14302,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-129999994.pt"
+                ]
+            },
+            {
+                "steps": 134999957,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-134999957.onnx",
+                "reward": 767.2351884841919,
+                "creation_time": 1685530938.2068818,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-134999957.pt"
+                ]
+            },
+            {
+                "steps": 139999975,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-139999975.onnx",
+                "reward": 771.7032932188453,
+                "creation_time": 1685533498.9497411,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-139999975.pt"
+                ]
+            },
+            {
+                "steps": 144999980,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-144999980.onnx",
+                "reward": 755.337806351688,
+                "creation_time": 1685536064.7979748,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-144999980.pt"
+                ]
+            },
+            {
+                "steps": 149999980,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-149999980.onnx",
+                "reward": 839.9018516540527,
+                "creation_time": 1685538740.0915542,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-149999980.pt"
+                ]
+            },
+            {
+                "steps": 150000172,
+                "file_path": "results\\ppo\\PoliceAgent\\PoliceAgent-150000172.onnx",
+                "reward": 839.9018516540527,
+                "creation_time": 1685538740.2445555,
+                "auxillary_file_paths": [
+                    "results\\ppo\\PoliceAgent\\PoliceAgent-150000172.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 150000172,
+            "file_path": "results\\ppo\\PoliceAgent.onnx",
+            "reward": 839.9018516540527,
+            "creation_time": 1685538740.2445555,
+            "auxillary_file_paths": [
+                "results\\ppo\\PoliceAgent\\PoliceAgent-150000172.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.0+cu118"
+    }
+}
