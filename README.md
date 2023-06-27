@@ -23,3 +23,6 @@
   * ```mlagents-learn [학습할 Agent의 config 파일] --env [env 경로]```
 * 학습 과정 및 결과는 Tensorboard에서 확인이 가능합니다.
   * ```tensorboard --logdir ./result ```
+
+## 시연 영상
+![PoliceAgent_1-min](https://github.com/Hallym-Autobot/2023-Capstone-Design/assets/81278212/47514d12-513f-45b2-8c7c-6a86d17a6ef2)
