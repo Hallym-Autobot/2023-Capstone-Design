@@ -25,4 +25,4 @@
   * ```tensorboard --logdir ./result ```
 
 ## 시연 영상
-![PoliceAgent_1-min](https://github.com/Hallym-Autobot/2023-Capstone-Design/assets/81278212/47514d12-513f-45b2-8c7c-6a86d17a6ef2)
+![PoliceAgent_1-min](https://github.com/Hallym-Autobot/2023-Capstone-Design/assets/81278212/9645845f-4fc3-4188-ba98-ce9e94772adc)
